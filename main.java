@@ -1,7 +1,6 @@
 class main{
     public static void main(String[] args) {
-        >>>Conflicts
-        System.out.println("Hello, user Anushka  " );
-        <<<<
-    }
+            System.out.println("Hello, " );
+        System.out.println("user Anushka  " );
+            }
 }
